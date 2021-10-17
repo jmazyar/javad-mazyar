@@ -275,11 +275,11 @@ li{
   position: relative;
   right: 3pt;
   top: 0.25pt;
-  font-family: FontAwesome;
+  /* font-family: FontAwesome; */
   font-weight: normal;
   font-style: normal;
   text-decoration: inherit;
-  content: "\f041";
+  /* content: "\f041"; */
 }
 
 /***** fine-tunes on the lists... *****/
@@ -366,4 +366,13 @@ li{
   font-family: "Source Code Pro";
   font-weight: 400;
   font-style: normal;
+}
+
+.icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  stroke-width: 0;
+  stroke: currentColor;
+  fill: currentColor;
 }
