@@ -275,11 +275,13 @@ li{
   position: relative;
   right: 3pt;
   top: 0.25pt;
-  font-family: Glyphicons Halflings;
+  /* font-family: FontAwesome; */
+  font-family: 'bootstrap-icons';
   font-weight: normal;
   font-style: normal;
   text-decoration: inherit;
-  content: "\e135";
+  /* content: "\xe135"; */
+  content:"\e135";
 }
 
 /***** fine-tunes on the lists... *****/
