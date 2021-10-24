@@ -276,12 +276,12 @@ li{
   right: 3pt;
   top: 0.25pt;
   /* font-family: FontAwesome; */
-  font-family: 'bootstrap-icons';
+  font-family: 'Material Icons';
   font-weight: normal;
   font-style: normal;
   text-decoration: inherit;
   /* content: "\xe135"; */
-  content:"\e135";
+  content:"\e0c8";
 }
 
 /***** fine-tunes on the lists... *****/
