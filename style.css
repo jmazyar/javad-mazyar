@@ -275,11 +275,11 @@ li{
   position: relative;
   right: 3pt;
   top: 0.25pt;
-  /* font-family: FontAwesome; */
+  font-family: Glyphicons Halflings;
   font-weight: normal;
   font-style: normal;
   text-decoration: inherit;
-  /* content: "\f041"; */
+  content: "\e135";
 }
 
 /***** fine-tunes on the lists... *****/
