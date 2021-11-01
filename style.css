@@ -369,3 +369,8 @@ li{
   font-weight: 400;
   font-style: normal;
 }
+
+#side-links{
+  color: inherit;
+  text-decoration: inherit;
+}
